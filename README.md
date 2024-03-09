@@ -1,9 +1,8 @@
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-# Calculadora em Python
+# Calculator in Python
+A project aimed at applying Object-oriented knowledge in Python along with basic notions of Python such as syntax, indentation, among others.
 
-Um projeto voltado para a aplicação de conhecimento de orientação a Objeto no python juntamente com noções básicas de python como syntaxe, identação entre outros.
-
-Esse projeto vai continuar a ser incrementado conforme meu conhecimento de python for aumentando e eu quiser aumentar a complexidade da calculadora e simplificar o código com meus novos conehcimentos.
+This project will continue to be expanded as my knowledge of Python increases and I want to increase the complexity of the calculator and simplify the code with my new knowledge.
 
 --------------------------
-##### [Instruções de Uso](https://github.com/JeanM-Rebello/Calculadora-Python/blob/main/doc/instrucoes_de_uso.md)
+##### [Instructions for use](https://github.com/JeanM-Rebello/Calculadora-Python/blob/main/doc/instrucoes_de_uso.md)
