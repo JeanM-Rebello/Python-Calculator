@@ -1,11 +1,11 @@
-# Instruções de Uso
+# Instructions for use
 
-* Tenha o Python instalado na sua máquina
+* Have Python installed on your machine
 
-* Baixe o .zip com o código.
+* Download the .zip with the code.
 
-* Extraia os arquivos do repositório no local desejado
+* Extract the files from the repository to the desired location
 
-* Na sua IDE ou Editor de Texto favorito, interprete o arquivo "CalculadoraMain.py"
+* In your favorite IDE or Text Editor, interpret the file "CalculadoraMain.py"
 
-* Após isso, será impresso no terminal as intruções de uso da calculadora
+* After that, instructions for using the calculator will be printed on the terminal
